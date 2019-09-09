@@ -1,0 +1,2 @@
+
+export const GET_SHOW_DETAIL = "GET_SHOW_DETAIL"
